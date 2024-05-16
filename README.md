@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevGilded
 - 👀 I’m interested in Game Development And Programmer
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me Goldencyco@gmail.com
 
