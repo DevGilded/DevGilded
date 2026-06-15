@@ -1,4 +1,4 @@
-![Mj Maruel L. Namok ASCII banner](/banner.svg)                                                                                                                                                                       
+![Mj Maruel L. Namok ASCII banner](/assets/banner.svg)                                                                                                                                                                       
 
 Mj Maruel L. Namok is a 3rd-year computer science student at [North Eastern Mindanao State University (NEMSU)](https://www.facebook.com/NEMSUGuidance), specializing in game and mobile application development. They are an active student leader within the College of Information Technology Education (CITE) and the [Association of Computer Science Students (ACSS)](https://www.facebook.com/CITEACSS).
 
