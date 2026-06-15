@@ -1,11 +1,11 @@
 ![Mj Maruel L. Namok ASCII banner](/banner.svg)                                                                                                                                                                       
 
-Mj Maruel L. Namok is a 3rd-year computer science student at North Eastern Mindanao State University (NEMSU), specializing in game and mobile application development. They are an active student leader within the College of Information Technology Education (CITE) and the Association of Computer Science Students (ACSS).
+Mj Maruel L. Namok is a 3rd-year computer science student at [North Eastern Mindanao State University (NEMSU)](https://www.facebook.com/NEMSUGuidance), specializing in game and mobile application development. They are an active student leader within the College of Information Technology Education (CITE) and the [Association of Computer Science Students (ACSS)](https://www.facebook.com/CITEACSS).
 
 About Me
 - I'm a computer science student with a strong focus on software architecture, currently mastering C++, Java, Python, GDScript (Godot), and Flutter.
-- I'm in the process of building TalaAI, an AI-powered enrollment assistant designed to streamline university administrative processes.
-- I'm also working on AgriConnect, an agricultural advisory and social platform that integrates the Gemini API and Google Vision.
+- ~~I'm in the process of building TalaAI, an AI-powered enrollment assistant designed to streamline university administrative processes.~~
+- ~~I'm also working on AgriConnect, an agricultural advisory and social platform that integrates the Gemini API and Google Vision.~~
 - I love to design minimalist UI/UX interfaces, frequently utilizing clean layouts and sophisticated color palettes like gold, purple, and "Starry Night" themes.
 - I have a passion for blending historical narratives with pixel art aesthetics, which I am actively channeling into my 2D game project, Hero Quest (BAYANI ng PILIPINAS).
 
