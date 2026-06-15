@@ -16,6 +16,22 @@ I am highly engaged in technical problem-solving, having recently prepared for t
 
 Would you like to include a section at the bottom of the README with badges for your specific tech stack or links to your contact information?
 
+## Tech Stack
+I work with:<br/>
+[![C++, Java, Python, Godot, Flutter, OpenCV](https://skillicons.dev/icons?i=cpp,java,python,godot,flutter,opencv&perline=6)](https://skillicons.dev)
+
+I also integrate:<br/>
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google Vision](https://img.shields.io/badge/Google%20Vision-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+## Social Links
+
+[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/github.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/github.svg?color=black&height=40'><img alt='github logo' src='https://api.iconify.design/simple-icons/github.svg?color=black&height=40' height='40'></picture>](https://github.com/your-username)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=40'><img alt='linkedin logo' src='https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=40' height='40'></picture>](https://www.linkedin.com/in/your-username/)
+
+## Software I use
+
+![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+
 <!---
 DevGilded/DevGilded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
